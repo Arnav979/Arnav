@@ -1,9 +1,11 @@
-a = 7
-b = 6
-c = a + b
+a = 8
+b = 7
+c = 9
+d = a + b + c
 
 
-print(c)
+print(d)
+
 
 
 
